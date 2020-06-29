@@ -14,8 +14,24 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="20"/>
+        <location filename="mainwindow.ui" line="40"/>
+        <location filename="mainwindow.ui" line="53"/>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="33"/>
         <source>(%1,%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="52"/>
+        <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="55"/>
+        <source>hello world!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
